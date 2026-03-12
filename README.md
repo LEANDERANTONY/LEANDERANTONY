@@ -14,7 +14,7 @@
 
 AI developer focused on LLM apps, portfolio tooling, and real-world ML workflows.
 
-I build practical AI systems across LLM applications, portfolio tooling, and applied machine learning workflows. My work focuses on turning technical ideas into usable tools with clear product value, stronger documentation, and a polished developer experience.
+I build practical AI systems across LLM applications and applied machine learning workflows. My work focuses on turning technical ideas into usable tools with clear product value, stronger documentation, and a polished developer experience.
 
 Recent work includes GitHub portfolio auditing, job-application tooling, retrieval-augmented QA, and applied ML projects in fraud detection, churn prediction, gesture recognition, and multimodal healthcare research.
 
@@ -67,11 +67,3 @@ Recent work includes GitHub portfolio auditing, job-application tooling, retriev
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LEANDERANTONY/LEANDERANTONY/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LEANDERANTONY/LEANDERANTONY/output/pacman-contribution-graph.svg">
 </picture>
-
----
-
-## Connect
-
-- LinkedIn: [leander-antony-a-176319147](https://www.linkedin.com/in/leander-antony-a-176319147/)
-- GitHub: [LEANDERANTONY](https://github.com/LEANDERANTONY)
-- ORCID: [0000-0002-4731-7318](https://orcid.org/0000-0002-4731-7318)
