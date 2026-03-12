@@ -28,8 +28,7 @@ My recent work spans GitHub portfolio auditing app, job-application tooling, RAG
 
 ## Featured Projects
 
-### [GitHub Portfolio Reviewer Agent](https://github.com/LEANDERANTONY/Github_Agent)
-[![Live App](https://img.shields.io/badge/Live_App-Portfolio_Reviewer-0B1220?style=for-the-badge&logo=streamlit&logoColor=white)](https://portfolio-reviewer-agent.streamlit.app)
+### [GitHub Portfolio Reviewer Agent](https://github.com/LEANDERANTONY/Github_Agent) [![Live App](https://img.shields.io/badge/Live_App-Portfolio_Reviewer-0B1220?style=for-the-badge&logo=streamlit&logoColor=white)](https://portfolio-reviewer-agent.streamlit.app)
 AI tool that audits GitHub profiles and repositories and turns them into recruiter-friendly portfolio feedback.
 
 - Scores portfolio quality across repositories and profile signals
@@ -38,7 +37,7 @@ AI tool that audits GitHub profiles and repositories and turns them into recruit
 
 **Stack:** `Python` `Streamlit` `OpenAI` `GitHub API`
 
-### [AI Job Application Agent](https://github.com/LEANDERANTONY/AI_Job_Application_Agent)
+### [AI Job Application Agent](https://github.com/LEANDERANTONY/AI_Job_Application_Agent)(ongoing)
 Workflow-focused agent that helps automate parts of the job application process.
 
 - Supports resume tailoring and job scraping
@@ -47,7 +46,7 @@ Workflow-focused agent that helps automate parts of the job application process.
 
 **Stack:** `Python` `LLMs` `Agents`
 
-### [HelpmateAI RAG QA System](https://github.com/LEANDERANTONY/HelpmateAI_RAG_QA_System)
+### [HelpmateAI RAG QA System](https://github.com/LEANDERANTONY/HelpmateAI_RAG_QA_System)(ongoing)
 Retrieval-augmented question answering system for document-heavy research and insurance-style use cases.
 
 - Uses retrieval, reranking, and prompt orchestration
