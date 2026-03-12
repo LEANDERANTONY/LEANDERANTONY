@@ -4,9 +4,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leander-antony-a-176319147/)
 [![Live App](https://img.shields.io/badge/Live_App-Portfolio_Reviewer-0B1220?style=for-the-badge&logo=streamlit&logoColor=white)](https://portfolio-reviewer-agent.streamlit.app)
-[![Email](https://img.shields.io/badge/Email-antony.leander@gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antony.leander@gmail.com)
 
 </div>
 
@@ -59,11 +57,6 @@ Recent work includes GitHub portfolio auditing, job-application tooling, retriev
 ---
 
 ## GitHub Signals
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LEANDERANTONY&show_icons=true&hide_border=true&count_private=true&bg_color=0B1220&title_color=2563EB&icon_color=2563EB&text_color=E7EEFC&ring_color=2563EB" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEANDERANTONY&layout=compact&hide_border=true&langs_count=6&bg_color=0B1220&title_color=2563EB&text_color=E7EEFC" height="165" />
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=LEANDERANTONY&hide_border=true&background=0B1220&stroke=0B1220&ring=2563EB&fire=2563EB&currStreakNum=FFFFFF&sideNums=E7EEFC&currStreakLabel=FFFFFF&sideLabels=8CA6D8&dates=8CA6D8" height="165" />
