@@ -7,7 +7,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leander-antony-a-176319147/)
-[![Live App](https://img.shields.io/badge/Live_App-Portfolio_Reviewer-0B1220?style=for-the-badge&logo=streamlit&logoColor=white)](https://portfolio-reviewer-agent.streamlit.app)
 [![Email](https://img.shields.io/badge/Email-antony.leander@gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antony.leander@gmail.com)
 
 </div>
@@ -16,21 +15,21 @@
 
 ## About Me
 
-AI developer building LLM applications, portfolio tooling, and practical machine learning systems.
-
-I focus on turning technical ideas into usable products with stronger documentation, clearer positioning, and a more polished developer experience. My recent work spans GitHub portfolio auditing, job-application tooling, retrieval-augmented QA, and applied ML projects in fraud detection, churn prediction, gesture recognition, and multimodal healthcare research.
+AI developer building LLM applications, I focus on turning technical ideas into usable products. 
+My recent work spans GitHub portfolio auditing app, job-application tooling, RAG-QA systems, and applied ML projects.
 
 ### Current Focus
 
 - Building end-to-end AI agents that solve real workflow problems
-- Making ML and LLM projects feel more usable, polished, and production-minded
-- Exploring stronger product architectures around hosted backends, shared persistence, and repository-aware RAG
+- Working on ML pipelines, model evaluation, and deployment systems 
+- Exploring stronger product architectures around hosted backends, shared persistence, and RAG systems
 
 ---
 
 ## Featured Projects
 
 ### [GitHub Portfolio Reviewer Agent](https://github.com/LEANDERANTONY/Github_Agent)
+[![Live App](https://img.shields.io/badge/Live_App-Portfolio_Reviewer-0B1220?style=for-the-badge&logo=streamlit&logoColor=white)](https://portfolio-reviewer-agent.streamlit.app)
 AI tool that audits GitHub profiles and repositories and turns them into recruiter-friendly portfolio feedback.
 
 - Scores portfolio quality across repositories and profile signals
@@ -95,13 +94,3 @@ Retrieval-augmented question answering system for document-heavy research and in
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LEANDERANTONY/LEANDERANTONY/output/pacman-contribution-graph.svg">
 </picture>
 -->
-
----
-
-## Connect
-
-- LinkedIn: [leander-antony-a-176319147](https://www.linkedin.com/in/leander-antony-a-176319147/)
-- GitHub: [LEANDERANTONY](https://github.com/LEANDERANTONY)
-- ORCID: [0000-0002-4731-7318](https://orcid.org/0000-0002-4731-7318)
-
-> “The best way to predict the future is to build it.”
