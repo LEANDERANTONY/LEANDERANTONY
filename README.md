@@ -28,7 +28,8 @@ My recent work spans GitHub portfolio auditing app, job-application tooling, RAG
 
 ## Featured Projects
 
-### [GitHub Portfolio Reviewer Agent](https://github.com/LEANDERANTONY/Github_Agent) <sub>[![Live App](https://img.shields.io/badge/Live_App-Portfolio_Reviewer-0B1220?style=for-the-badge&logo=streamlit&logoColor=white)](https://portfolio-reviewer-agent.streamlit.app)</sub>
+### [GitHub Portfolio Reviewer Agent](https://github.com/LEANDERANTONY/Github_Agent)
+[![Live App](https://img.shields.io/badge/Live_App-Portfolio_Reviewer-0B1220?style=for-the-badge&logo=streamlit&logoColor=white)](https://portfolio-reviewer-agent.streamlit.app)
 AI tool that audits GitHub profiles and repositories and turns them into recruiter-friendly portfolio feedback.
 
 - Scores portfolio quality across repositories and profile signals
