@@ -87,10 +87,8 @@ Retrieval-augmented question answering system for document-heavy research and in
   <img src="https://streak-stats.demolab.com?user=LEANDERANTONY&theme=tokyonight&hide_border=true" height="175" />
 </div>
 
-<!-- Optional: enable this if you want a more playful visual section.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LEANDERANTONY/LEANDERANTONY/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LEANDERANTONY/LEANDERANTONY/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LEANDERANTONY/LEANDERANTONY/output/pacman-contribution-graph.svg">
 </picture>
--->
