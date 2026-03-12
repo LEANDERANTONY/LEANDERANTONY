@@ -61,9 +61,3 @@ Recent work includes GitHub portfolio auditing, job-application tooling, retriev
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=LEANDERANTONY&hide_border=true&background=0B1220&stroke=0B1220&ring=2563EB&fire=2563EB&currStreakNum=FFFFFF&sideNums=E7EEFC&currStreakLabel=FFFFFF&sideLabels=8CA6D8&dates=8CA6D8" height="165" />
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LEANDERANTONY/LEANDERANTONY/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LEANDERANTONY/LEANDERANTONY/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LEANDERANTONY/LEANDERANTONY/output/pacman-contribution-graph.svg">
-</picture>
