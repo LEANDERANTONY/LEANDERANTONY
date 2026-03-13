@@ -87,5 +87,5 @@
 ## GitHub Signals
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=LEANDERANTONY&hide_border=true&background=0B1220&stroke=0B1220&ring=2563EB&fire=2563EB&currStreakNum=FFFFFF&sideNums=E7EEFC&currStreakLabel=FFFFFF&sideLabels=8CA6D8&dates=8CA6D8" height="165" />
+  <img src="https://streak-stats.demolab.com?user=LEANDERANTONY&hide_border=true&background=0B1220&stroke=0B1220&ring=2563EB&fire=2563EB&currStreakNum=FFFFFF&sideNums=E7EEFC&currStreakLabel=FFFFFF&sideLabels=8CA6D8&dates=8CA6D8" width="100%" />
 </div>
