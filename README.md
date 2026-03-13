@@ -3,26 +3,8 @@
 </div>
 
 <div align="center">
-
-[![Live App](https://img.shields.io/badge/Live_App-Portfolio_Reviewer-0B1220?style=for-the-badge&logo=streamlit&logoColor=white)](https://portfolio-reviewer-agent.streamlit.app)
-
+  <img src="./about_me.png" alt="About Leander Antony A" width="100%" />
 </div>
-
----
-
-## About Me
-
-AI developer focused on LLM apps, portfolio tooling, and real-world ML workflows.
-
-I build practical AI systems across LLM applications and applied machine learning workflows. My work focuses on turning technical ideas into usable tools with clear product value, stronger documentation, and a polished developer experience.
-
-Recent work includes GitHub portfolio auditing, job-application tooling, retrieval-augmented QA, and applied ML projects in fraud detection, churn prediction, gesture recognition, and multimodal healthcare research.
-
-### Current Focus
-
-- building end-to-end AI agents that solve real workflow problems
-- making ML and LLM projects feel more usable, polished, and production-minded
-- exploring stronger product architectures around hosted backends, shared persistence, and repository-aware RAG
 
 ---
 
