@@ -2,6 +2,8 @@
   <img src="./Title_card.gif" alt="Leander Antony A profile banner" width="100%" />
 </div>
 
+---
+
 <div align="center">
   <img src="./about_me.png" alt="About Leander Antony A" width="100%" />
 </div>
