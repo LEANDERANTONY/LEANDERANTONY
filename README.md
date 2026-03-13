@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="./Title_card.gif" alt="Leander Antony A profile banner" width="100%" />
+  <img src="./assets/Title_card.gif" alt="Leander Antony A profile banner" width="100%" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="./about_me.svg" alt="About Leander Antony A" width="100%" />
+  <img src="./assets/about_me.svg" alt="About Leander Antony A" width="100%" />
 </div>
 
 ---
@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="https://github.com/LEANDERANTONY/Github_Agent">
-    <img src="./github_agent.svg" alt="GitHub Portfolio Reviewer project card" width="100%" />
+    <img src="./assets/github_agent.svg" alt="GitHub Portfolio Reviewer project card" width="100%" />
   </a>
 </div>
 
@@ -33,7 +33,7 @@
 
 <div align="center">
   <a href="https://github.com/LEANDERANTONY/AI_Job_Application_Agent">
-    <img src="./job_application_agent.svg" alt="AI Job Application Agent project card" width="100%" />
+    <img src="./assets/job_application_agent.svg" alt="AI Job Application Agent project card" width="100%" />
   </a>
 </div>
 
@@ -47,7 +47,7 @@
 
 <div align="center">
   <a href="https://github.com/LEANDERANTONY/HelpmateAI_RAG_QA_System">
-    <img src="./helpmateAI.svg" alt="HelpmateAI RAG QA project card" width="100%" />
+    <img src="./assets/helpmateAI.svg" alt="HelpmateAI RAG QA project card" width="100%" />
   </a>
 </div>
 
