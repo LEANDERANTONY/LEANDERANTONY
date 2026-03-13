@@ -12,9 +12,25 @@
 
 ## Selected Work
 
+<div align="center">
+  <a href="https://github.com/LEANDERANTONY/Github_Agent">
+    <img src="./github_agent.png" alt="GitHub Portfolio Reviewer project card" width="100%" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/LEANDERANTONY/Github_Agent">
+    <img src="https://img.shields.io/badge/GitHub-Repository-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
+  </a>
+  <a href="https://portfolio-reviewer-agent.streamlit.app">
+    <img src="https://img.shields.io/badge/Live_App-Open-2563EB?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live App" />
+  </a>
+</div>
+
+### More Projects
+
 | Project | What it does | Stack |
 |---|---|---|
-| [GitHub Portfolio Reviewer Agent](https://github.com/LEANDERANTONY/Github_Agent) | Audits GitHub profiles and repositories, scores portfolio quality, and generates recruiter-facing reports with Markdown and PDF export. | `Python` `Streamlit` `OpenAI` `GitHub API` |
 | [AI Job Application Agent](https://github.com/LEANDERANTONY/AI_Job_Application_Agent) | Automates parts of the job-application workflow, including resume tailoring, job scraping, and structured application support. | `Python` `LLMs` `Agents` |
 | [HelpmateAI RAG QA System](https://github.com/LEANDERANTONY/HelpmateAI_RAG_QA_System) | Retrieval-augmented QA system for research and insurance-style documents with reranking and prompt orchestration. | `Python` `LangChain` `ChromaDB` `OpenAI` |
 | [Multimodal Cancer Detection](https://github.com/LEANDERANTONY/Multimodal_Cancer_Detection) | Multimodal ML project combining CT ROI extraction, biomarker modelling, and fusion strategies for cancer detection. | `TensorFlow` `YOLO` `Deep Learning` |
