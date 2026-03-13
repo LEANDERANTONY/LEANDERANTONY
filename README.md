@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="https://github.com/LEANDERANTONY/Github_Agent">
-    <img src="./github_agent.png" alt="GitHub Portfolio Reviewer project card" width="100%" />
+    <img src="./github_agent.svg" alt="GitHub Portfolio Reviewer project card" width="100%" />
   </a>
 </div>
 
