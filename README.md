@@ -5,12 +5,14 @@
 ---
 
 <div align="center">
-  <img src="./about_me.png" alt="About Leander Antony A" width="100%" />
+  <img src="./about_me.svg" alt="About Leander Antony A" width="100%" />
 </div>
 
 ---
 
 ## Selected Work
+
+### Featured Projects
 
 <div align="center">
   <a href="https://github.com/LEANDERANTONY/Github_Agent">
@@ -18,7 +20,7 @@
   </a>
 </div>
 
-<div align="center">
+<div>
   <a href="https://github.com/LEANDERANTONY/Github_Agent">
     <img src="https://img.shields.io/badge/GitHub-Repository-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
   </a>
@@ -27,15 +29,35 @@
   </a>
 </div>
 
-### More Projects
+<div align="center">
+  <a href="https://github.com/LEANDERANTONY/AI_Job_Application_Agent">
+    <img src="./job_application_agent.svg" alt="AI Job Application Agent project card" width="100%" />
+  </a>
+</div>
 
-| Project | What it does | Stack |
-|---|---|---|
-| [AI Job Application Agent](https://github.com/LEANDERANTONY/AI_Job_Application_Agent) | Automates parts of the job-application workflow, including resume tailoring, job scraping, and structured application support. | `Python` `LLMs` `Agents` |
-| [HelpmateAI RAG QA System](https://github.com/LEANDERANTONY/HelpmateAI_RAG_QA_System) | Retrieval-augmented QA system for research and insurance-style documents with reranking and prompt orchestration. | `Python` `LangChain` `ChromaDB` `OpenAI` |
-| [Multimodal Cancer Detection](https://github.com/LEANDERANTONY/Multimodal_Cancer_Detection) | Multimodal ML project combining CT ROI extraction, biomarker modelling, and fusion strategies for cancer detection. | `TensorFlow` `YOLO` `Deep Learning` |
-| [Credit Card Fraud Detection](https://github.com/LEANDERANTONY/Credit_Card_Fraud_Detection) | Fraud detection on highly imbalanced transaction data using XGBoost and SMOTE. | `Python` `XGBoost` `SMOTE` |
-| [Telecom Churn Case Study](https://github.com/LEANDERANTONY/Telecom_Churn_Case_study) | Churn modelling case study on large customer datasets with feature engineering and classification workflows. | `Python` `scikit-learn` `EDA` |
+<div>
+  <a href="https://github.com/LEANDERANTONY/AI_Job_Application_Agent">
+    <img src="https://img.shields.io/badge/GitHub-Repository-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/LEANDERANTONY/HelpmateAI_RAG_QA_System">
+    <img src="./helpmateAI.svg" alt="HelpmateAI RAG QA project card" width="100%" />
+  </a>
+</div>
+
+<div>
+  <a href="https://github.com/LEANDERANTONY/HelpmateAI_RAG_QA_System">
+    <img src="https://img.shields.io/badge/GitHub-Repository-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
+  </a>
+</div>
+
+### Other Projects
+
+- [Multimodal Cancer Detection](https://github.com/LEANDERANTONY/Multimodal_Cancer_Detection): CT ROI extraction, biomarker modelling, and multimodal fusion for cancer detection.
+- [Credit Card Fraud Detection](https://github.com/LEANDERANTONY/Credit_Card_Fraud_Detection): Fraud detection on highly imbalanced transaction data using XGBoost and SMOTE.
+- [Telecom Churn Case Study](https://github.com/LEANDERANTONY/Telecom_Churn_Case_study): Churn prediction with feature engineering and classification workflows on large telecom datasets.
 
 ---
 
