@@ -1,9 +1,6 @@
 <div align="center">
   <img src="./assets/Title_card.gif" alt="Leander Antony A profile banner" width="100%" />
 </div>
-
----
-
 <div align="center">
   <img src="./assets/about_me.svg" alt="About Leander Antony A" width="100%" />
 </div>
