@@ -26,8 +26,6 @@
   </a>
 </div>
 
----
-
 <div align="center">
   <a href="https://github.com/LEANDERANTONY/AI_Job_Application_Agent">
     <img src="./assets/job_application_agent.svg" alt="AI Job Application Agent project card" width="100%" />
@@ -39,8 +37,6 @@
     <img src="https://img.shields.io/badge/GitHub-Repository-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
   </a>
 </div>
-
----
 
 <div align="center">
   <a href="https://github.com/LEANDERANTONY/HelpmateAI_RAG_QA_System">
