@@ -76,7 +76,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2563EB?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-0B1220?style=for-the-badge&logo=numpy&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-0B1220?style=for-the-badge&logo=chromadb&logoColor=white)
+![Docker](https://img.shields.io/badge/ChromaDB-2563EB?style=for-the-badge&logo=docker&logoColor=white)
 ---
 
 ## GitHub Signals
