@@ -70,17 +70,13 @@
 
 ![Python](https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-0B1220?style=for-the-badge&logo=streamlit&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-2563EB?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub API](https://img.shields.io/badge/GitHub_API-0B1220?style=for-the-badge&logo=github&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-2563EB?style=for-the-badge&logo=langchain&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0B1220?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2563EB?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0B1220?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2563EB?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-0B1220?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-2563EB?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=white)
-
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0B1220?style=for-the-badge&logo=chromadb&logoColor=white)
 ---
 
 ## GitHub Signals
