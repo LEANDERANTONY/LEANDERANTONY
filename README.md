@@ -79,6 +79,7 @@
 ![Git](https://img.shields.io/badge/Git-2563EB?style=for-the-badge&logo=git&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0B1220?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-0B1220?style=for-the-badge&logo=supabase&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-2563EB?style=for-the-badge&logo=xgboost&logoColor=white)
 
 ---
 
