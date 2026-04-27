@@ -36,7 +36,7 @@
   <a href="https://github.com/LEANDERANTONY/AI_Job_Application_Agent">
     <img src="https://img.shields.io/badge/GitHub-Repository-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
   </a>
-  <a href="https://ai-job-application-agent.onrender.com/">
+  <a href="https://job-application-copilot.xyz">
     <img src="https://img.shields.io/badge/Live_App-Open-2563EB?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live App" />
   </a>
 </div>
